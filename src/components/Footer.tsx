@@ -74,7 +74,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="pt-8 border-t border-border flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            &copy; {currentYear} Alex Chen. All rights reserved.
+            &copy; {currentYear} Joey. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
             Built with Next.js, TailwindCSS & Framer Motion
