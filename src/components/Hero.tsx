@@ -61,7 +61,7 @@ export default function Hero() {
           >
             Hi, I&apos;m{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">
-              Alex Chen
+              Joey
             </span>
           </motion.h1>
 
