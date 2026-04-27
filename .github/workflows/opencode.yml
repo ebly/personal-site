@@ -25,6 +25,9 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Install huashu-design skill
+        run: npx skills add alchaincyf/huashu-design
+
       - name: Run opencode
         uses: anomalyco/opencode/github@latest
         env:
